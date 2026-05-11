@@ -1,1 +1,1 @@
-#OptiScaler-GUI
+## OptiScaler-GUI
