@@ -1,6 +1,6 @@
 ## OptiScaler-GUI
 
-###Pre-release checklist
+### Pre-release checklist
 #### 1) Basic and clean GUI 
 #### 2) Main Logic : 
 ##### detect installed games
