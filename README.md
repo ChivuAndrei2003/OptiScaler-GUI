@@ -1,11 +1,12 @@
 ## OptiScaler-GUI
 
 ### Pre-release checklist
-#### 1) Basic and clean GUI 
+#### 1) Basic and clean GUI ❌
 #### 2) Main Logic : 
-##### detect installed games
-##### install / uninstall optiscaler
-##### dowloand cache / components
+##### detect installed games ❌
+##### install / uninstall optiscaler ❌
+##### dowloand cache / components ❌
+
 Python + Qt GUI skeleton for Windows and Linux OptiScaler workflows.
 
 ### Run the current project
