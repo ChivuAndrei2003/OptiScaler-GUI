@@ -2,7 +2,7 @@
 
 ###Pre-release checklist
 #### 1) Basic and clean GUI 
-#### 2) Bass Logic : 
+#### 2) Main Logic : 
 ##### detect installed games
 ##### install / uninstall optiscaler
 ##### dowloand cache / components
